@@ -18,6 +18,7 @@
 | **🏗️ Architecture & Flows** | [`flow-diagrammer`](./flow-diagrammer/) | Replaces dense technical narratives with Mermaid sequence diagrams, flowcharts, and terminal-friendly ASCII charts. | `"Şemasını çiz"`, `"Draw sequence diagram"`, `"Akışı görselleştir"` |
 | **⚡ Interactive Tooling** | [`disposable-web-artifact`](./disposable-web-artifact/) | Generates zero-dependency, self-contained single-file HTML/CSS/JS visualizers with step controls and parameter inspectors. | `"HTML olarak hazırla"`, `"Interactive simulation"`, `"Kullan ve sil araç"` |
 | **🔍 Debugging & Incident Triage** | [`triad-diff-debugger`](./triad-diff-debugger/) | Eliminates guesswork in production failures via a strict 3-pillar triage: *1. What changed? 2. What works? 3. What broke?* | `"Ne bozuldu?"`, `"Triage incident"`, `"Kök neden analizi"` |
+| **💡 Ideation & Creative Strategy** | [`anti-cliche-ideator`](./anti-cliche-ideator/) | Generates breakthrough ideas by first mapping predictable AI clichés, treating them as negative boundaries to avoid. | `"Anti-cliche"`, `"Ezber fikir üretme"`, `"Farklı açı bul"` |
 
 *(More categories and skills are continuously added: DevOps & Cloud, Database Tuning, Agent Workflows, and Domain Calculators).*
 
@@ -80,6 +81,7 @@ We welcome contributions! To submit a newly discovered skill:
 * **🏗️ Mimari ve Akış Şemaları (`flow-diagrammer`):** Karmaşık protokol ve servis iletişimlerini metin yerine Mermaid (`sequenceDiagram`, `flowchart`) ve ASCII şemalarına dönüştürür.
 * **⚡ Etkileşimli Araçlar & Simülasyon (`disposable-web-artifact`):** Dış kütüphane bağımlılığı olmayan, tarayıcıda doğrudan çalışan tek dosyalık interaktif HTML/CSS/JS görsel simülatörleri oluşturur.
 * **🔍 Hata Ayıklama & Olay Teşhisi (`triad-diff-debugger`):** Üretim ortamı kesintilerini ve regresyonları *"1. Ne değişti?, 2. Ne çalışıyor?, 3. Ne bozuldu?"* disipliniyle kök nedene indirger.
+* **💡 İnovasyon & Tersine Fikir Geliştirme (`anti-cliche-ideator`):** İlk akla gelen yüzeysel yapay zekâ klişelerini negatif kısıt ilan edip, sınırın tamamen dışındaki özgün fikirleri üretir.
 
 ### 📌 Depo Vizyonu & Gelecek Planı
 
